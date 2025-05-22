@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Ankit Dey
 
 🔧 **Full Stack Developer** | 🖥️ **Backend-Focused** | 🏗️ **System Architecture Enthusiast** | 🤖 **Applied AI Enthusiast**
 
@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm a developer who thrives on solving complex problems wi
 
 ### 📫 Let’s Connect
 
-Feel free to explore my repos and reach out via [LinkedIn](https://www.linkedin.com/) or [your-email@example.com] if you'd like to collaborate or chat tech.
+Feel free to explore my repos and reach out via [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ankit-dey-51945a27b/)) or [deyankit437@gmail.com] if you'd like to collaborate or chat tech.
 
 ---
 
